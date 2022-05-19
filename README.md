@@ -1,6 +1,14 @@
 # Next.js + Tailwind CSS Example
+   
+<p> 
+  <img alt="Issues" src="https://img.shields.io/github/issues/DAJAKMPM/facebook-clone" />
+  <img alt="Forks" src="https://img.shields.io/github/forks/DAJAKMPM/facebook-clone" />
+   <img alt="Stars" src="https://img.shields.io/github/stars/DAJAKMPM/facebook-clone" />  
+</p>  
 
+## Description  
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+
 
 ## Deploy your own
 
